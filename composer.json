@@ -20,7 +20,7 @@
         "symfony/service-contracts": "^2.5|^3"
     },
      "replace": {
-        "symfony/stopwatch": "*"
+        "symfony/stopwatch": "self.version"
     },
     "autoload": {
         "psr-4": { "Symfony\\Component\\Stopwatch\\": "" },
