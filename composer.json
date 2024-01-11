@@ -30,7 +30,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "7.0"
+            "dev-tv-dashboard-240111": "7.0"
         }
     },
     "minimum-stability": "dev"
